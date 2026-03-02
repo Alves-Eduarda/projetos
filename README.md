@@ -8,6 +8,6 @@ Repositório que contém projetos desenvolvidos por meio da aplicação de metod
 
 ## Lista de projetos
 
-# Análise de churn
-# Análise de Crédito
-# Análise de Sinistros nas Rodovias Brasileiras
+* Análise de churn
+* Análise de Crédito
+* Análise de Sinistros nas Rodovias Brasileiras
