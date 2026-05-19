@@ -10,20 +10,23 @@ O arquivo -StoreSales.json- contém o histórico de mais de 50.000 vendas e orde
 
 ## Estrutura do fluxo
 
-![diagrama](diagrama - projeto 02.gif)
+!\[diagrama](diagrama\_projeto\_02.gif)
 
 ## Processo de captura dos dados
 
 Utilização da API fornecida gratuitamente pelo Kaggle
-* código: captura_dados.py
+
+* código: captura\_dados.py
 
 Geração dos arquivos de amostra a partir do arquivo principal
-* código: generate_sample.py
+
+* código: generate\_sample.py
 
 
-## Processo de adição dos dados na tabela (dynamo DB - store_sales)
 
-* código: code_insert_lambda.py
+## Processo de adição dos dados na tabela (dynamo DB - store\_sales)
+
+* código: code\_insert\_lambda.py
 
 ## Resultado
 
