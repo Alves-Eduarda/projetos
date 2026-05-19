@@ -10,7 +10,7 @@ O arquivo -StoreSales.json- contém o histórico de mais de 50.000 vendas e orde
 
 ## Estrutura do fluxo
 
-![diagrama]('diagrama - projeto 02.gif')
+![diagrama](diagrama - projeto 02.gif)
 
 ## Processo de captura dos dados
 
