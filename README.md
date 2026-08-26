@@ -6,6 +6,7 @@ Repositório que contém projetos desenvolvidos por meio da aplicação de metod
 * Análise de churn
 * Análise de Crédito
 * Cloud_Labs
+* Orquestradores
 
 # Autoria
 * Projetos desenvolvidos por Maria Eduarda Alves
